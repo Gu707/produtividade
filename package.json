@@ -1,0 +1,11 @@
+{
+  "name": "controle-de-produtividade",
+  "version": "1.0.0",
+  "description": "uma deshboard para gerenciar os afazeres pessoais",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Gustavo Silva Araujo",
+  "license": "MIT"
+}
